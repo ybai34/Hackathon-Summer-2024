@@ -1,33 +1,35 @@
-# Leaderboard for GIDS Biomedical Data Hackathon 2024
+# FINAL Leaderboard for GIDS Biomedical Data Hackathon 2024
 
--   **time stamp:** “16 August, 2024 15:00:03”
+-   **time stamp:** “17 August, 2024 15:00:04”
 
 | pseudonym                     |     MCC |
 |:------------------------------|--------:|
 | DMMH                          |  1.0000 |
+| CookieMonster                 |  1.0000 |
+| The Browns                    |  0.9868 |
 | Capybara                      |  0.9800 |
 | BASE                          |  0.9734 |
 | Zong Time                     |  0.9672 |
-| The Browns                    |  0.9669 |
 | MJCG Lab                      |  0.9539 |
-| Tiramisu                      |  0.9470 |
+| Tiramisu                      |  0.9534 |
+| emole                         |  0.8933 |
 | AttnIsAllYouNeed              |  0.8745 |
-| CookieMonster                 |  0.7948 |
 | Phoenix                       |  0.7667 |
-| iKun                          |  0.7387 |
+| iKun                          |  0.7365 |
+| Rookie Data Scientist         |  0.7133 |
 | data science girlies          |  0.7069 |
 | 60hahsm                       |  0.6879 |
+| Lucy                          |  0.6004 |
 | why-axis                      |  0.5821 |
-| Rookie Data Scientist         |  0.4540 |
+| ?                             |  0.5454 |
+| Biomedical Datascience Team 2 |  0.5375 |
 | Gathucy                       |  0.4388 |
-| Pickleballers                 |  0.3541 |
-| Biomedical Datascience Team 2 |  0.3223 |
+| Elden Lord                    |  0.4000 |
+| Typhoon                       |  0.3943 |
+| Pickleballers                 |  0.3782 |
 | YEAST                         | -0.0231 |
 | FLY                           | -0.0400 |
-| ?                             | -0.0400 |
-| mamba out                     | -0.0400 |
 | KPTH                          | -0.0400 |
-| Elden Lord                    | -0.0400 |
 | HumanGPT                      | -0.0400 |
 | Velo                          | -0.0400 |
 | Data Pundits                  | -0.0400 |
@@ -55,10 +57,9 @@ Please read instructions carefully.*
 
 | pseudonym           |
 |:--------------------|
-| Lucy                |
+| mamba out           |
 | Works on my machine |
 | DS_2024             |
-| Typhoon             |
 | HT                  |
 | KD                  |
 | Medhini             |
@@ -77,4 +78,3 @@ Please read instructions carefully.*
 | Data Infinity       |
 | FunctionLab         |
 | Gubergoff           |
-| emole               |

@@ -1,7 +1,8 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2024
-Welcome to the landing page for the hackathon. The data are now released. All important information will appear here. Please make sure each individual competing on your team is fully registered. To compete for a prize, you must supply your University of Rochester e-mail address. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
+Welcome to the landing page for the hackathon. The competition is now over and final scores are now posted. 
 
-Registration of new teams is now closed.  Teams can consist of up to 4 people and you made add members through 8/13. **All team members must submit their own registration form to compete for prizes.** To finish your team registration or to register for an existing team, use this [google form](https://forms.gle/xVYZeegK4hSVtm3F8). 
+ Please make sure each individual competing on your team is fully registered. To receive a prize, you must supply your University of Rochester e-mail address. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
+ **All team members must submit their own registration form to receive prizes.** To finish your team registration or to register for an existing team, use this [google form](https://forms.gle/xVYZeegK4hSVtm3F8). 
 
 
 # Logistics
@@ -43,3 +44,27 @@ division, else they will be in the open division.
 1.  First place in each division: $300 + $75 x (team size)
 2.  Second place in each division: 0 + $50 x (team size)
   
+# Winners!
+   
+**Congratulations to the winning teams:**
+   
+ * 1st place Undergraduate division- The Browns
+ * 2nd place Undergraduate division- Capybara
+ 
+ * 1st place Open division - CookieMonster and DMMH tied
+ * 2nd place Open division- BASE
+
+If your team's final MCC was >0, you will receive a prize! 
+* All individuals who participated in the following teams will receive a prize for your score: The Browns, Capybara, CookieMonster, DMMH, BASE, Zong Time, MJCG Lab, Tiramisu, emole, AttnIsAllYouNeed, Phoenix, iKun, Rookie Data Scientist, data science gurlies, 60hahsm, ?, Lucy, why axis, Biomedical Data Science Team 2, Gathucy, Elden Lord, and Pickleballers.
+
+In order to claim your prize, you will need to fill out a [post-competition survey](https://forms.gle/ptXhkD3hUhaFkYhKA) and [prize information form](https://forms.gle/sZYUe9SCCFUQzso7A).
+
+
+# Feedback and post-event information
+Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events. All teams that submit predictions may receive a participation certificate. Please e-mail alarracu at bio.rochester.edu for your certificate.
+
+**Fill out the post-competition [survey](https://forms.gle/ptXhkD3hUhaFkYhKA).** 
+* You must be registered for the event in order to claim a prize.  
+* If your team submitted predictions and you would like to receive a certificate of participation, please e-mail alarracu@bio.rochester.edu. 
+* Some of the winning teams will present their approach to the hackathon in an upcoming meeting of the GIDS working group in life and biomedical data science. You are all invited. Details about the meeting will come via e-mail once it is scheduled.
+
